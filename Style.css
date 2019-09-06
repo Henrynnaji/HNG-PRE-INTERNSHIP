@@ -1,0 +1,8 @@
+.tablecontent{
+	    width: 25%;
+    padding: 20px 10px ;
+    margin: 2%;
+    text-align: center;
+    box-shadow: 0  20px 5px rgba(37, 73, 214, 0.18);
+    background-color: white;
+}
